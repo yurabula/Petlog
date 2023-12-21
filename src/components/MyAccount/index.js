@@ -1,3 +1,3 @@
-import MyAccount from ".";
+import MyAccount from "./MyAccount";
 
 export { MyAccount };

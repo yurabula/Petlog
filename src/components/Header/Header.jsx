@@ -11,7 +11,7 @@ const Header = () => {
                         <img className='logo' src={logo} alt='логотип' />
                     </li>
                     <li>Головна</li>
-                    <li>Мій аккаунт</li>
+                    <li>Мій акаунт</li>
                     <li>Налаштування</li>
                     <li>Про нас</li>
                 </ul>
