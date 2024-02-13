@@ -1,0 +1,66 @@
+.addDogContainer{
+height: auto;
+
+}
+.goBackButton{
+    width: 200px;
+    height: 50px;
+    background-color: #84AE7D;
+    border: 0px;
+    border-radius: 70px;
+    font-size: 20px;
+
+
+    img{
+        height: 20px;
+    }
+
+    .goBackButtonContainer{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 6px;
+    }
+
+
+}
+
+.mainInfoContainer{
+    width: 80%;
+    height: 600px;
+    background-color: #5F6F4E;
+    margin: 30px auto;
+    border:2px solid;
+    border-color: #724040;
+    border-radius: 30px;
+    padding: 20px;
+    display: flex;
+}
+
+.addPhotoButton{
+    width: 55%;
+    height: 550px;
+    background-color: #CBDCBB;
+    border: 2px solid;
+    border-color: #724040 ;
+    border-radius: 20px;
+
+    img{
+        width: 80px;
+        height: 80px;
+    }
+}
+
+.inputContainer{
+    height: 35px;
+    background-color: #DEEED5;
+    border: 1px solid;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    input{
+        border-radius: 20px;
+    }
+}

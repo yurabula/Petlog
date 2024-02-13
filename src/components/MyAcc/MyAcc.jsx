@@ -24,7 +24,7 @@ const MyAcc = () => {
 
             <div className="create-account">
                 <p>Не маєте акаунту? </p>
-                <Link to="/create-account"><button className="create-account-button">Створити акаунт</button></Link>
+                <button className="create-account-button">Створити акаунт</button>
             </div>
         </div>
     );

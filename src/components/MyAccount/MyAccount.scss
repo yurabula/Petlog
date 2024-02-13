@@ -1,5 +1,5 @@
 .my_account_container {
-    margin-left: 40px;
+    width: 100%;
 }
 
 .button_account {
@@ -24,7 +24,6 @@
 }
 
 .my_account_header {
-    margin-left: 900px;
     color: #000;
     text-align: center;
     font-family: Spectral SC;
@@ -43,9 +42,6 @@
     text-align: left;
 }
 
-.account_photo {
-    margin-left: 60px;
-}
 
 .button_edit_account {
     margin-top: 40px;
@@ -57,7 +53,6 @@
     border: none;
     border-radius: 70px;
     background: #84AE7D;
-    margin-left: 600px;
 }
 
 .button_edit_text {
@@ -96,5 +91,4 @@
     font-size: 48px;
     font-style: italic;
     font-weight: 600;
-    margin-left: 340px;
 }
